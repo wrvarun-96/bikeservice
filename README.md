@@ -6,6 +6,7 @@ These are the basic question intrested to solve:-
 3)Which stations are most popular?
 4)What days of the week are most rides taken on?
 
+Features:-
 Duration – Duration of trip
 Start Date – Includes start date and time
 End Date – Includes end date and time
